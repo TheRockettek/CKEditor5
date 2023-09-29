@@ -5,7 +5,7 @@
 /**
  * @module markdown-gfm/markdown2html/markdown2html
  */
-import { marked } from 'marked';
+import { marked } from '../../../marked/lib/marked.esm';
 // Overrides.
 marked.use({
     tokenizer: {

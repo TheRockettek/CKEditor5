@@ -5,7 +5,7 @@
 /**
  * @module markdown-gfm/markdown
  */
-import { Plugin } from '@ckeditor/ckeditor5-core';
+import { Plugin } from 'ckeditor5/src/core';
 import GFMDataProcessor from './gfmdataprocessor';
 /**
  * The GitHub Flavored Markdown (GFM) plugin.

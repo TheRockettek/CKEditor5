@@ -5,7 +5,7 @@
 /**
  * @module markdown-gfm/markdown2html/markdown2html
  */
-import { marked } from 'marked';
+import { marked } from '../../../marked/lib/marked.esm';
 /**
  * Parses markdown string to an HTML.
  */

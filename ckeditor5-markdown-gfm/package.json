@@ -1,4 +1,10 @@
 {
+  "_args": [
+    [
+      "@ckeditor/ckeditor5-markdown-gfm@39.0.2",
+      "/home/rock/Work/CKEditor5"
+    ]
+  ],
   "_from": "@ckeditor/ckeditor5-markdown-gfm@39.0.2",
   "_id": "@ckeditor/ckeditor5-markdown-gfm@39.0.2",
   "_inBundle": false,
@@ -20,8 +26,7 @@
     "/"
   ],
   "_resolved": "https://registry.npmjs.org/@ckeditor/ckeditor5-markdown-gfm/-/ckeditor5-markdown-gfm-39.0.2.tgz",
-  "_shasum": "e3d7a34b939d3f68c18a01f0e1d23f2d03764554",
-  "_spec": "@ckeditor/ckeditor5-markdown-gfm@39.0.2",
+  "_spec": "39.0.2",
   "_where": "/home/rock/Work/CKEditor5",
   "author": {
     "name": "CKSource",
@@ -30,14 +35,12 @@
   "bugs": {
     "url": "https://github.com/ckeditor/ckeditor5/issues"
   },
-  "bundleDependencies": false,
   "dependencies": {
     "ckeditor5": "39.0.2",
     "marked": "4.0.12",
     "turndown": "6.0.0",
     "turndown-plugin-gfm": "1.0.2"
   },
-  "deprecated": false,
   "description": "GitHub Flavored Markdown data processor for CKEditor 5.",
   "files": [
     "lang",
