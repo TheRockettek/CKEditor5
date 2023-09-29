@@ -1,0 +1,70 @@
+{
+  "_from": "@ckeditor/ckeditor5-markdown-gfm@39.0.2",
+  "_id": "@ckeditor/ckeditor5-markdown-gfm@39.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-x4sQHFiQbr0z0pPElevtBpO052iOCokQRJ00ZOHzZc4gOUdxSHikNLZnRcjOm2QVgOudA0C7JuaYq3LhQU3cNQ==",
+  "_location": "/@ckeditor/ckeditor5-markdown-gfm",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@ckeditor/ckeditor5-markdown-gfm@39.0.2",
+    "name": "@ckeditor/ckeditor5-markdown-gfm",
+    "escapedName": "@ckeditor%2fckeditor5-markdown-gfm",
+    "scope": "@ckeditor",
+    "rawSpec": "39.0.2",
+    "saveSpec": null,
+    "fetchSpec": "39.0.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ckeditor/ckeditor5-markdown-gfm/-/ckeditor5-markdown-gfm-39.0.2.tgz",
+  "_shasum": "e3d7a34b939d3f68c18a01f0e1d23f2d03764554",
+  "_spec": "@ckeditor/ckeditor5-markdown-gfm@39.0.2",
+  "_where": "/home/rock/Work/CKEditor5",
+  "author": {
+    "name": "CKSource",
+    "url": "http://cksource.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/ckeditor/ckeditor5/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "ckeditor5": "39.0.2",
+    "marked": "4.0.12",
+    "turndown": "6.0.0",
+    "turndown-plugin-gfm": "1.0.2"
+  },
+  "deprecated": false,
+  "description": "GitHub Flavored Markdown data processor for CKEditor 5.",
+  "files": [
+    "lang",
+    "src/**/*.js",
+    "src/**/*.d.ts",
+    "theme",
+    "build",
+    "ckeditor5-metadata.json",
+    "CHANGELOG.md"
+  ],
+  "homepage": "https://ckeditor.com/ckeditor-5",
+  "keywords": [
+    "ckeditor",
+    "ckeditor5",
+    "ckeditor 5",
+    "ckeditor5-feature",
+    "ckeditor5-plugin",
+    "ckeditor5-dll"
+  ],
+  "license": "GPL-2.0-or-later",
+  "main": "src/index.js",
+  "name": "@ckeditor/ckeditor5-markdown-gfm",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckeditor/ckeditor5.git",
+    "directory": "packages/ckeditor5-markdown-gfm"
+  },
+  "types": "src/index.d.ts",
+  "version": "39.0.2"
+}
